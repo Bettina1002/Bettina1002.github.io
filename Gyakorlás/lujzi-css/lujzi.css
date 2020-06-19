@@ -1,0 +1,18 @@
+h2 {
+    color: red;
+}
+
+p {
+    color: purple;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 1000;
+}
+
+html {
+    background-color: tan
+}
+
+img {
+    box-shadow: 5px 5px 10px black;
+    margin: 10px;
+}
